@@ -1,0 +1,11 @@
+bread: 3.99
+milk: 2.95
+apples: 3.50
+bananas: 2.99
+chocolate: 0.50
+toothpaste: 1.75
+grapes: 2.49
+chicken: 12.55
+steak: 6.99
+lamb: 8.99
+lemon: 1.99
